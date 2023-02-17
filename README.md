@@ -45,3 +45,7 @@ Capitulo 1: A base de um Design System - Build do pacote com TSUP
 
 Agora vamos entender o que é o TSUP e como configurar ele para converter nosso código de TS para JS.
 
+Capitulo 1: A base de um Design System - Configurando Monorepo
+
+Nessa aula nós vamos conhecer os Monorepos, e como configurar essa estrutura no nosso projeto.
+
