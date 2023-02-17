@@ -40,3 +40,8 @@ export const colors = {
 Capitulo 1: A base de um Design System - Configurando tokens
 
 Nessa aula nós vamos continuar configurando os tokens do nosso Design System, que serão os tokens utilizados nas nossas aplicações.
+
+Capitulo 1: A base de um Design System - Build do pacote com TSUP
+
+Agora vamos entender o que é o TSUP e como configurar ele para converter nosso código de TS para JS.
+
