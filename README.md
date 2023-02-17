@@ -61,3 +61,7 @@ Capitulo 2: Design System em React - Configurando pacote do React
 
 Nessa aula vamos fazer algumas configurações para deixar nosso pacote de React preparado para receber componentes e configurações relacionadas ao React.
 
+Capitulo 2: Design System em React - Configuração do Stitches
+
+Vamos agora configurar a ferramenta de estilização que utilizaremos durante a construção do nosso Design System, que é o Stitches.
+
