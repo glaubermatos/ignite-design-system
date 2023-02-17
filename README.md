@@ -65,3 +65,10 @@ Capitulo 2: Design System em React - Configuração do Stitches
 
 Vamos agora configurar a ferramenta de estilização que utilizaremos durante a construção do nosso Design System, que é o Stitches.
 
+Capitulo 2: Design System em React - Criando app em Storybook
+
+Vamos agora configurar o StoryBook e integrar ele com os plugins do vite e React e já visualizar o funcionamento do Storybook no navegador.
+
+```
+npx sb init --builder @storybook/builder-vite --type react --use-npm
+```
