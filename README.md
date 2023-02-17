@@ -53,3 +53,7 @@ Capitulo 1: A base de um Design System - Configuração do TypeScript
 
 Vamos agora criar um pacote para a configuração do TypeScript, que será compartilhada entre vários pacotes do nosso monorepo.
 
+Capitulo 1: A base de um Design System - Configuração do ESLint
+
+Nessa aula nós vamos configurar um pacote que irá conter todas as configurações do ESLint que serão usadas no nosso monorepo.
+
