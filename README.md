@@ -49,3 +49,7 @@ Capitulo 1: A base de um Design System - Configurando Monorepo
 
 Nessa aula nós vamos conhecer os Monorepos, e como configurar essa estrutura no nosso projeto.
 
+Capitulo 1: A base de um Design System - Configuração do TypeScript
+
+Vamos agora criar um pacote para a configuração do TypeScript, que será compartilhada entre vários pacotes do nosso monorepo.
+
